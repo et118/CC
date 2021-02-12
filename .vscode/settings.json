@@ -1,0 +1,13 @@
+{
+    "Lua.diagnostics.globals": [
+        "vector",
+        "gps",
+        "turtle",
+        "shell",
+        "parallel",
+        "peripheral"
+    ],
+    "Lua.diagnostics.disable": [
+        "undefined-field"
+    ]
+}
